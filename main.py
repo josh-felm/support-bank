@@ -1,0 +1,92 @@
+import pandas as pd
+import account
+import transaction
+
+TRANSACTIONS_FILE   = './transactions2014.csv'
+DEBUG               = False
+
+LIST_ALL            = 1
+LIST_NAME           = 2
+QUIT_MENU           = 3
+
+ID_RESPONSE         = 1
+
+def create_accounts(transactions_df):
+    accounts = {}
+    for id in transactions_df['From']:
+        if not id in accounts:
+            accounts[str(id)] = account.Account(str(id))
+    return accounts
+
+def perform_transactions(transactions_df, accounts):
+    for t in transactions_df.iloc:
+        new_transaction = transaction.Transaction(t['Date'],t['From'],t['To'],t['Narrative'],t['Amount'])
+
+        accounts[t['From']].transaction_history.append(new_transaction)
+        accounts[t['To']].transaction_history.append(new_transaction)
+
+        accounts[t['From']].balance -= int(t['Amount'])
+        accounts[t['To']].balance   += int(t['Amount'])
+    return accounts
+
+def pre_process():
+    transactions_df = pd.read_csv(TRANSACTIONS_FILE)
+    transactions_df['Amount'] *= 100
+    if DEBUG:
+        print(transactions_df['Amount'])
+        print(transactions_df.iloc[0])
+
+    accounts = create_accounts(transactions_df)
+    if DEBUG:
+        print(accounts['Jon A'].account_id)
+
+    return perform_transactions(transactions_df, accounts)
+
+def print_menu():
+    print('========================MAIN MENU===============================')
+    print('Option    Alternate    Description')
+    print('1)        List All     Output name and balance of each person')
+    print('2 [Name]) List [Name]  Output transaction history for *NAME*')
+    print('3)        Quit         Quit program')
+    print('================================================================')
+
+def menu_choice():
+    selection = ''
+    id = ''
+    while selection == '':
+        response = input('Select menu option: ')
+        if response.lower() in ['1', 'list all']:
+            selection = LIST_ALL
+        elif response.lower()[4:] not in ['2','list'] and len(response.split()) >= 2:
+            selection = LIST_NAME
+            id = " ".join(response.split()[ID_RESPONSE:])
+        elif response.lower() in ['3', 'quit', 'exit']:
+            selection = QUIT_MENU
+    return (selection,id)
+
+def list_all_entries(updated_accounts):
+    for id in updated_accounts:
+        print(f'{id} £{int(updated_accounts[id].balance)/100}')
+
+def list_transaction_history(updated_accounts, id):
+    if id in updated_accounts:
+        for t in updated_accounts[id].transaction_history:
+            t.print_transaction()
+    else:
+        print(f'Account name "{id}" not recognised')
+
+def main():
+    updated_accounts = pre_process()
+    selection = ''
+    while selection != QUIT_MENU:
+        print_menu()
+        (selection,id) = menu_choice()
+        if DEBUG:
+            print(id)
+        if selection == LIST_ALL:
+            list_all_entries(updated_accounts)
+        elif selection == LIST_NAME:
+            list_transaction_history(updated_accounts, id)
+
+if __name__ == '__main__':
+    main()
