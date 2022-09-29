@@ -1,0 +1,10 @@
+INFO:root:2022-09-29 10:39:49 Execution finished
+INFO:root:Read csv ./dodgytransactions2015.csv
+ERROR:root:Invalid amount on line 26
+ERROR:root:Invalid date on line 50
+INFO:root:2022-09-29 10:39:49: Displaying menu
+INFO:root:2022-09-29 10:39:50: List all selected
+INFO:root:2022-09-29 10:39:50: Displaying menu
+INFO:root:2022-09-29 10:39:57: List Jon A selected
+INFO:root:2022-09-29 10:39:57: Displaying menu
+INFO:root:2022-09-29 10:40:09: Execution finished

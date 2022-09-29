@@ -1,5 +1,5 @@
 from datetime import date
-
+import decimal
 
 class Transaction:
     def __init__(self, date='', from_id='', to_id='', narrative='',amount=0) -> None:
@@ -10,4 +10,4 @@ class Transaction:
         self.amount      = amount
 
     def print_transaction(self):
-        print(f'date:{self.date}, from:{self.from_id}, to:{self.to_id}, narrative: {self.narrative}, amount:£{int(self.amount)/100}')
+        print(f'date:{self.date}, from:{self.from_id}, to:{self.to_id}, narrative: {self.narrative}, amount:£{decimal.Decimal(self.amount)}')
