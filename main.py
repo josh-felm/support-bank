@@ -11,7 +11,7 @@ import xml.etree.ElementTree as ET
 import transaction
 import logging
 
-logging.basicConfig(filename='supportbank.log',filemode='w',level=logging.DEBUG, format='%(asctime)s %(message)s')
+logging.basicConfig(filename='supportbank.log',filemode='w',level=logging.DEBUG, format='%(levelname)s: %(asctime)s %(message)s')
 
 # CONSTANTS {{{
 TRANSACTIONS_FILE   = '.\\data\\transactions2012.xml'
@@ -26,7 +26,7 @@ READ_FILE           = 3
 WRITE_FILE          = 4
 QUIT_MENU           = 5
 
-ID_ARG         = 1
+ID_ARG              = 1
 
 OLE_TIME_ZERO       = datetime.datetime(1899, 12, 30, 0, 0, 0)
 # }}}
@@ -54,6 +54,7 @@ def create_accounts(transactions_df):
 
 def perform_transactions(transactions_df, accounts):
     line_no = 0
+    invalid_input = False
     for t in transactions_df.iloc:
         try:
             new_transaction = transaction.Transaction(t['Date'],t['From'],t['To'],t['Narrative'],t['Amount'])
@@ -66,10 +67,16 @@ def perform_transactions(transactions_df, accounts):
             accounts[t['From']].balance -= int(t['Amount'])
             accounts[t['To']].balance   += int(t['Amount'])
         except InvalidOperation:
-            logging.error(f'Invalid amount on line {line_no}')
+            invalid_amount = t['Amount']
+            logging.error(f'Invalid amount ({invalid_amount}) on line {line_no}')
+            invalid_input = True
         except ValueError:
-            logging.error(f'Invalid date on line {line_no}')
+            invalid_date = t['Date']
+            logging.error(f'Invalid date ({invalid_date}) on line {line_no}')
+            invalid_input = True
         line_no += 1
+    if invalid_input:
+        print('Some transactions were ignored, check logs for more details')
     return accounts
 
 def read_json(curr_file):
@@ -100,8 +107,6 @@ def write_file(file_name, curr_file):
     print('Writing to ' + str(new_file_path))
     if file_name.endswith('.csv'):
         transactions_df.to_csv(new_file_path, index=False)
-        print('Write successful')
-        logging.info(f'Successful write to file {new_file_path}')
     elif file_name.endswith('.json'):
         result = transactions_df.to_json(orient='records')
         parsed = json.loads(result)
@@ -109,6 +114,8 @@ def write_file(file_name, curr_file):
             json.dump(parsed, f, indent=4) 
     elif file_name.endswith('xml'):
         transactions_df.to_xml(new_file_path, index=False)
+    print('Write successful')
+    logging.info(f'Successful write to file {new_file_path}')
 
 def read_file(curr_file):
     if curr_file.lower().endswith('.csv'):
