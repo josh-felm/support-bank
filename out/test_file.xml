@@ -1,0 +1,1018 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <Date>2013-01-01 00:00:00</Date>
+    <From>Jon A</From>
+    <To>Gergana I</To>
+    <Narrative>Sandbox Help</Narrative>
+    <Amount>2.14</Amount>
+  </row>
+  <row>
+    <Date>2013-01-04 00:00:00</Date>
+    <From>Chris W</From>
+    <To>Dan W</To>
+    <Narrative>Coffee</Narrative>
+    <Amount>10.53</Amount>
+  </row>
+  <row>
+    <Date>2013-01-05 00:00:00</Date>
+    <From>Stephen S</From>
+    <To>Tim L</To>
+    <Narrative>Sandcastle Help</Narrative>
+    <Amount>10.57</Amount>
+  </row>
+  <row>
+    <Date>2013-01-09 00:00:00</Date>
+    <From>Todd</From>
+    <To>Rob S</To>
+    <Narrative>Coffee</Narrative>
+    <Amount>8.19</Amount>
+  </row>
+  <row>
+    <Date>2013-01-13 00:00:00</Date>
+    <From>Todd</From>
+    <To>Sarah T</To>
+    <Narrative>Coffee</Narrative>
+    <Amount>1.01</Amount>
+  </row>
+  <row>
+    <Date>2013-01-15 00:00:00</Date>
+    <From>Todd</From>
+    <To>Laura B</To>
+    <Narrative>Golf Bets</Narrative>
+    <Amount>2.71</Amount>
+  </row>
+  <row>
+    <Date>2013-01-18 00:00:00</Date>
+    <From>Laura B</From>
+    <To>Tim L</To>
+    <Narrative>Jenkins Fees</Narrative>
+    <Amount>7.17</Amount>
+  </row>
+  <row>
+    <Date>2013-01-22 00:00:00</Date>
+    <From>Dan W</From>
+    <To>Rob S</To>
+    <Narrative>Sandcastle Help</Narrative>
+    <Amount>11.12</Amount>
+  </row>
+  <row>
+    <Date>2013-01-25 00:00:00</Date>
+    <From>Ben B</From>
+    <To>Jon A</To>
+    <Narrative>Coffee</Narrative>
+    <Amount>4.86</Amount>
+  </row>
+  <row>
+    <Date>2013-01-28 00:00:00</Date>
+    <From>Stephen S</From>
+    <To>Ben B</To>
+    <Narrative>Services Rendered</Narrative>
+    <Amount>1.92</Amount>
+  </row>
+  <row>
+    <Date>2013-01-30 00:00:00</Date>
+    <From>Sarah T</From>
+    <To>Todd</To>
+    <Narrative>Jenkins Fees</Narrative>
+    <Amount>11.95</Amount>
+  </row>
+  <row>
+    <Date>2013-01-31 00:00:00</Date>
+    <From>Sarah T</From>
+    <To>Chris W</To>
+    <Narrative>Poker Winnings</Narrative>
+    <Amount>7.55</Amount>
+  </row>
+  <row>
+    <Date>2013-02-04 00:00:00</Date>
+    <From>Sam N</From>
+    <To>Sarah T</To>
+    <Narrative>Arcade Social</Narrative>
+    <Amount>5.52</Amount>
+  </row>
+  <row>
+    <Date>2013-02-06 00:00:00</Date>
+    <From>Dan W</From>
+    <To>Rob S</To>
+    <Narrative>Snooker Night</Narrative>
+    <Amount>8.07</Amount>
+  </row>
+  <row>
+    <Date>2013-02-07 00:00:00</Date>
+    <From>Rob S</From>
+    <To>Laura B</To>
+    <Narrative>Beers</Narrative>
+    <Amount>7.63</Amount>
+  </row>
+  <row>
+    <Date>2013-02-10 00:00:00</Date>
+    <From>Stephen S</From>
+    <To>Todd</To>
+    <Narrative>Snooker Night</Narrative>
+    <Amount>10.4</Amount>
+  </row>
+  <row>
+    <Date>2013-02-12 00:00:00</Date>
+    <From>Ben B</From>
+    <To>Chris W</To>
+    <Narrative>Misc Morale</Narrative>
+    <Amount>5.76</Amount>
+  </row>
+  <row>
+    <Date>2013-02-15 00:00:00</Date>
+    <From>Sam N</From>
+    <To>Chris W</To>
+    <Narrative>Lunch</Narrative>
+    <Amount>1.54</Amount>
+  </row>
+  <row>
+    <Date>2013-02-18 00:00:00</Date>
+    <From>Sarah T</From>
+    <To>Sam N</To>
+    <Narrative>Coffee</Narrative>
+    <Amount>6.98</Amount>
+  </row>
+  <row>
+    <Date>2013-02-22 00:00:00</Date>
+    <From>Chris W</From>
+    <To>Tim L</To>
+    <Narrative>Lunch</Narrative>
+    <Amount>8.77</Amount>
+  </row>
+  <row>
+    <Date>2013-02-26 00:00:00</Date>
+    <From>Sarah T</From>
+    <To>Stephen S</To>
+    <Narrative>Audit and Other Financial Services</Narrative>
+    <Amount>5.94</Amount>
+  </row>
+  <row>
+    <Date>2013-02-27 00:00:00</Date>
+    <From>Jon A</From>
+    <To>Chris W</To>
+    <Narrative>Rails Consultancy</Narrative>
+    <Amount>10.58</Amount>
+  </row>
+  <row>
+    <Date>2013-03-02 00:00:00</Date>
+    <From>Gergana I</From>
+    <To>Stephen S</To>
+    <Narrative>Audit and Other Financial Services</Narrative>
+    <Amount>1.73</Amount>
+  </row>
+  <row>
+    <Date>2013-03-06 00:00:00</Date>
+    <From>Laura B</From>
+    <To>Sam N</To>
+    <Narrative>Stationary Items</Narrative>
+    <Amount>7.26</Amount>
+  </row>
+  <row>
+    <Date>2013-03-08 00:00:00</Date>
+    <From>Ben B</From>
+    <To>Sarah T</To>
+    <Narrative>Pokemon Training</Narrative>
+    <Amount>6.2</Amount>
+  </row>
+  <row>
+    <Date>2013-03-12 00:00:00</Date>
+    <From>Todd</From>
+    <To>Jon A</To>
+    <Narrative>Automated Testing Services</Narrative>
+    <Amount>0.9</Amount>
+  </row>
+  <row>
+    <Date>2013-03-14 00:00:00</Date>
+    <From>Todd</From>
+    <To>Chris W</To>
+    <Narrative>Rails Consultancy</Narrative>
+    <Amount>8.97</Amount>
+  </row>
+  <row>
+    <Date>2013-03-17 00:00:00</Date>
+    <From>Dan W</From>
+    <To>Chris W</To>
+    <Narrative>Audit and Other Financial Services</Narrative>
+    <Amount>3.34</Amount>
+  </row>
+  <row>
+    <Date>2013-03-20 00:00:00</Date>
+    <From>Gergana I</From>
+    <To>Rob S</To>
+    <Narrative>Stationary Items</Narrative>
+    <Amount>2.85</Amount>
+  </row>
+  <row>
+    <Date>2013-03-22 00:00:00</Date>
+    <From>Chris W</From>
+    <To>Laura B</To>
+    <Narrative>Git-Fu Rendered</Narrative>
+    <Amount>4.15</Amount>
+  </row>
+  <row>
+    <Date>2013-03-24 00:00:00</Date>
+    <From>Gergana I</From>
+    <To>Stephen S</To>
+    <Narrative>Coffee</Narrative>
+    <Amount>2.39</Amount>
+  </row>
+  <row>
+    <Date>2013-03-27 00:00:00</Date>
+    <From>Stephen S</From>
+    <To>Dan W</To>
+    <Narrative>Jenkins Fees</Narrative>
+    <Amount>7.82</Amount>
+  </row>
+  <row>
+    <Date>2013-03-28 00:00:00</Date>
+    <From>Ben B</From>
+    <To>Stephen S</To>
+    <Narrative>Sandbox Help</Narrative>
+    <Amount>6.36</Amount>
+  </row>
+  <row>
+    <Date>2013-04-01 00:00:00</Date>
+    <From>Rob S</From>
+    <To>Tim L</To>
+    <Narrative>Coffee</Narrative>
+    <Amount>4.77</Amount>
+  </row>
+  <row>
+    <Date>2013-04-03 00:00:00</Date>
+    <From>Sarah T</From>
+    <To>Stephen S</To>
+    <Narrative>Lunch</Narrative>
+    <Amount>2.64</Amount>
+  </row>
+  <row>
+    <Date>2013-04-05 00:00:00</Date>
+    <From>Stephen S</From>
+    <To>Chris W</To>
+    <Narrative>Coffee</Narrative>
+    <Amount>3.4</Amount>
+  </row>
+  <row>
+    <Date>2013-04-08 00:00:00</Date>
+    <From>Tim L</From>
+    <To>Todd</To>
+    <Narrative>Jenkins Fees</Narrative>
+    <Amount>4.27</Amount>
+  </row>
+  <row>
+    <Date>2013-04-09 00:00:00</Date>
+    <From>Todd</From>
+    <To>Gergana I</To>
+    <Narrative>Misc Morale</Narrative>
+    <Amount>2.6</Amount>
+  </row>
+  <row>
+    <Date>2013-04-11 00:00:00</Date>
+    <From>Gergana I</From>
+    <To>Sarah T</To>
+    <Narrative>Lunch</Narrative>
+    <Amount>3.0</Amount>
+  </row>
+  <row>
+    <Date>2013-04-15 00:00:00</Date>
+    <From>Rob S</From>
+    <To>Chris W</To>
+    <Narrative>Coffee</Narrative>
+    <Amount>5.49</Amount>
+  </row>
+  <row>
+    <Date>2013-04-18 00:00:00</Date>
+    <From>Gergana I</From>
+    <To>Ben B</To>
+    <Narrative>Lunch</Narrative>
+    <Amount>9.07</Amount>
+  </row>
+  <row>
+    <Date>2013-04-21 00:00:00</Date>
+    <From>Todd</From>
+    <To>Sarah T</To>
+    <Narrative>Sandcastle Help</Narrative>
+    <Amount>5.32</Amount>
+  </row>
+  <row>
+    <Date>2013-04-24 00:00:00</Date>
+    <From>Ben B</From>
+    <To>Tim L</To>
+    <Narrative>Fantasy Football</Narrative>
+    <Amount>1.15</Amount>
+  </row>
+  <row>
+    <Date>2013-04-25 00:00:00</Date>
+    <From>Stephen S</From>
+    <To>Jon A</To>
+    <Narrative>Coffee</Narrative>
+    <Amount>2.47</Amount>
+  </row>
+  <row>
+    <Date>2013-04-26 00:00:00</Date>
+    <From>Stephen S</From>
+    <To>Jon A</To>
+    <Narrative>Misc Morale</Narrative>
+    <Amount>9.1</Amount>
+  </row>
+  <row>
+    <Date>2013-04-27 00:00:00</Date>
+    <From>Ben B</From>
+    <To>Chris W</To>
+    <Narrative>Rails Consultancy</Narrative>
+    <Amount>9.91</Amount>
+  </row>
+  <row>
+    <Date>2013-05-01 00:00:00</Date>
+    <From>Ben B</From>
+    <To>Dan W</To>
+    <Narrative>Git-Fu Rendered</Narrative>
+    <Amount>9.85</Amount>
+  </row>
+  <row>
+    <Date>2013-05-04 00:00:00</Date>
+    <From>Laura B</From>
+    <To>Dan W</To>
+    <Narrative>Coffee</Narrative>
+    <Amount>1.34</Amount>
+  </row>
+  <row>
+    <Date>2013-05-05 00:00:00</Date>
+    <From>Sarah T</From>
+    <To>Ben B</To>
+    <Narrative>Beers</Narrative>
+    <Amount>0.51</Amount>
+  </row>
+  <row>
+    <Date>2013-05-06 00:00:00</Date>
+    <From>Todd</From>
+    <To>Dan W</To>
+    <Narrative>Git-Fu Rendered</Narrative>
+    <Amount>4.92</Amount>
+  </row>
+  <row>
+    <Date>2013-05-08 00:00:00</Date>
+    <From>Chris W</From>
+    <To>Tim L</To>
+    <Narrative>Coffee</Narrative>
+    <Amount>5.94</Amount>
+  </row>
+  <row>
+    <Date>2013-05-09 00:00:00</Date>
+    <From>Gergana I</From>
+    <To>Tim L</To>
+    <Narrative>White Water Rafting</Narrative>
+    <Amount>2.27</Amount>
+  </row>
+  <row>
+    <Date>2013-05-13 00:00:00</Date>
+    <From>Todd</From>
+    <To>Ben B</To>
+    <Narrative>Coffee</Narrative>
+    <Amount>11.07</Amount>
+  </row>
+  <row>
+    <Date>2013-05-14 00:00:00</Date>
+    <From>Ben B</From>
+    <To>Dan W</To>
+    <Narrative>Rails Consultancy</Narrative>
+    <Amount>9.96</Amount>
+  </row>
+  <row>
+    <Date>2013-05-18 00:00:00</Date>
+    <From>Laura B</From>
+    <To>Sarah T</To>
+    <Narrative>Lunch</Narrative>
+    <Amount>11.94</Amount>
+  </row>
+  <row>
+    <Date>2013-05-22 00:00:00</Date>
+    <From>Stephen S</From>
+    <To>Sam N</To>
+    <Narrative>Pokemon Training</Narrative>
+    <Amount>9.24</Amount>
+  </row>
+  <row>
+    <Date>2013-05-25 00:00:00</Date>
+    <From>Stephen S</From>
+    <To>Chris W</To>
+    <Narrative>Sandbox Help</Narrative>
+    <Amount>2.85</Amount>
+  </row>
+  <row>
+    <Date>2013-05-29 00:00:00</Date>
+    <From>Stephen S</From>
+    <To>Ben B</To>
+    <Narrative>Audit and Other Financial Services</Narrative>
+    <Amount>1.51</Amount>
+  </row>
+  <row>
+    <Date>2013-06-02 00:00:00</Date>
+    <From>Todd</From>
+    <To>Ben B</To>
+    <Narrative>Golf Bets</Narrative>
+    <Amount>11.83</Amount>
+  </row>
+  <row>
+    <Date>2013-06-03 00:00:00</Date>
+    <From>Chris W</From>
+    <To>Rob S</To>
+    <Narrative>Lunch</Narrative>
+    <Amount>2.16</Amount>
+  </row>
+  <row>
+    <Date>2013-06-05 00:00:00</Date>
+    <From>Rob S</From>
+    <To>Dan W</To>
+    <Narrative>Golf Bets</Narrative>
+    <Amount>1.96</Amount>
+  </row>
+  <row>
+    <Date>2013-06-06 00:00:00</Date>
+    <From>Todd</From>
+    <To>Jon A</To>
+    <Narrative>Pokemon Training</Narrative>
+    <Amount>1.06</Amount>
+  </row>
+  <row>
+    <Date>2013-06-10 00:00:00</Date>
+    <From>Sarah T</From>
+    <To>Gergana I</To>
+    <Narrative>Lego Assistance</Narrative>
+    <Amount>10.81</Amount>
+  </row>
+  <row>
+    <Date>2013-06-12 00:00:00</Date>
+    <From>Jon A</From>
+    <To>Ben B</To>
+    <Narrative>Sandcastle Help</Narrative>
+    <Amount>6.75</Amount>
+  </row>
+  <row>
+    <Date>2013-06-13 00:00:00</Date>
+    <From>Ben B</From>
+    <To>Sarah T</To>
+    <Narrative>Poker Winnings</Narrative>
+    <Amount>5.15</Amount>
+  </row>
+  <row>
+    <Date>2013-06-16 00:00:00</Date>
+    <From>Ben B</From>
+    <To>Dan W</To>
+    <Narrative>Misc Morale</Narrative>
+    <Amount>9.24</Amount>
+  </row>
+  <row>
+    <Date>2013-06-19 00:00:00</Date>
+    <From>Laura B</From>
+    <To>Jon A</To>
+    <Narrative>Coffee</Narrative>
+    <Amount>3.68</Amount>
+  </row>
+  <row>
+    <Date>2013-06-21 00:00:00</Date>
+    <From>Dan W</From>
+    <To>Todd</To>
+    <Narrative>Lunch</Narrative>
+    <Amount>5.43</Amount>
+  </row>
+  <row>
+    <Date>2013-06-22 00:00:00</Date>
+    <From>Chris W</From>
+    <To>Tim L</To>
+    <Narrative>Stationary Items</Narrative>
+    <Amount>0.98</Amount>
+  </row>
+  <row>
+    <Date>2013-06-23 00:00:00</Date>
+    <From>Stephen S</From>
+    <To>Jon A</To>
+    <Narrative>Audit and Other Financial Services</Narrative>
+    <Amount>6.12</Amount>
+  </row>
+  <row>
+    <Date>2013-06-26 00:00:00</Date>
+    <From>Rob S</From>
+    <To>Sarah T</To>
+    <Narrative>Lunch</Narrative>
+    <Amount>8.39</Amount>
+  </row>
+  <row>
+    <Date>2013-06-27 00:00:00</Date>
+    <From>Chris W</From>
+    <To>Ben B</To>
+    <Narrative>Beers</Narrative>
+    <Amount>10.41</Amount>
+  </row>
+  <row>
+    <Date>2013-06-30 00:00:00</Date>
+    <From>Tim L</From>
+    <To>Laura B</To>
+    <Narrative>Lunch</Narrative>
+    <Amount>6.51</Amount>
+  </row>
+  <row>
+    <Date>2013-07-01 00:00:00</Date>
+    <From>Tim L</From>
+    <To>Jon A</To>
+    <Narrative>Misc Morale</Narrative>
+    <Amount>1.48</Amount>
+  </row>
+  <row>
+    <Date>2013-07-04 00:00:00</Date>
+    <From>Tim L</From>
+    <To>Chris W</To>
+    <Narrative>Poker Winnings</Narrative>
+    <Amount>5.63</Amount>
+  </row>
+  <row>
+    <Date>2013-07-05 00:00:00</Date>
+    <From>Stephen S</From>
+    <To>Sam N</To>
+    <Narrative>Lunch</Narrative>
+    <Amount>6.73</Amount>
+  </row>
+  <row>
+    <Date>2013-07-07 00:00:00</Date>
+    <From>Jon A</From>
+    <To>Rob S</To>
+    <Narrative>Lunch</Narrative>
+    <Amount>6.69</Amount>
+  </row>
+  <row>
+    <Date>2013-07-10 00:00:00</Date>
+    <From>Dan W</From>
+    <To>Sarah T</To>
+    <Narrative>Lunch</Narrative>
+    <Amount>3.88</Amount>
+  </row>
+  <row>
+    <Date>2013-07-13 00:00:00</Date>
+    <From>Chris W</From>
+    <To>Tim L</To>
+    <Narrative>Misc Morale</Narrative>
+    <Amount>2.08</Amount>
+  </row>
+  <row>
+    <Date>2013-07-16 00:00:00</Date>
+    <From>Stephen S</From>
+    <To>Gergana I</To>
+    <Narrative>Coffee</Narrative>
+    <Amount>6.95</Amount>
+  </row>
+  <row>
+    <Date>2013-07-19 00:00:00</Date>
+    <From>Dan W</From>
+    <To>Stephen S</To>
+    <Narrative>Arcade Social</Narrative>
+    <Amount>3.21</Amount>
+  </row>
+  <row>
+    <Date>2013-07-23 00:00:00</Date>
+    <From>Sarah T</From>
+    <To>Stephen S</To>
+    <Narrative>Services Rendered</Narrative>
+    <Amount>11.17</Amount>
+  </row>
+  <row>
+    <Date>2013-07-27 00:00:00</Date>
+    <From>Ben B</From>
+    <To>Tim L</To>
+    <Narrative>Coffee</Narrative>
+    <Amount>4.29</Amount>
+  </row>
+  <row>
+    <Date>2013-07-30 00:00:00</Date>
+    <From>Ben B</From>
+    <To>Todd</To>
+    <Narrative>Beers</Narrative>
+    <Amount>0.6900000000000001</Amount>
+  </row>
+  <row>
+    <Date>2013-07-31 00:00:00</Date>
+    <From>Dan W</From>
+    <To>Sam N</To>
+    <Narrative>Pokemon Training</Narrative>
+    <Amount>1.2</Amount>
+  </row>
+  <row>
+    <Date>2013-08-01 00:00:00</Date>
+    <From>Ben B</From>
+    <To>Todd</To>
+    <Narrative>Lunch</Narrative>
+    <Amount>11.18</Amount>
+  </row>
+  <row>
+    <Date>2013-08-05 00:00:00</Date>
+    <From>Laura B</From>
+    <To>Tim L</To>
+    <Narrative>Jenkins Fees</Narrative>
+    <Amount>11.34</Amount>
+  </row>
+  <row>
+    <Date>2013-08-07 00:00:00</Date>
+    <From>Jon A</From>
+    <To>Rob S</To>
+    <Narrative>Poker Winnings</Narrative>
+    <Amount>10.78</Amount>
+  </row>
+  <row>
+    <Date>2013-08-08 00:00:00</Date>
+    <From>Gergana I</From>
+    <To>Stephen S</To>
+    <Narrative>Lunch</Narrative>
+    <Amount>10.07</Amount>
+  </row>
+  <row>
+    <Date>2013-08-11 00:00:00</Date>
+    <From>Stephen S</From>
+    <To>Chris W</To>
+    <Narrative>Lunch</Narrative>
+    <Amount>7.27</Amount>
+  </row>
+  <row>
+    <Date>2013-08-13 00:00:00</Date>
+    <From>Gergana I</From>
+    <To>Chris W</To>
+    <Narrative>Sandcastle Help</Narrative>
+    <Amount>9.96</Amount>
+  </row>
+  <row>
+    <Date>2013-08-16 00:00:00</Date>
+    <From>Gergana I</From>
+    <To>Ben B</To>
+    <Narrative>Misc Morale</Narrative>
+    <Amount>10.91</Amount>
+  </row>
+  <row>
+    <Date>2013-08-19 00:00:00</Date>
+    <From>Tim L</From>
+    <To>Sam N</To>
+    <Narrative>Coffee</Narrative>
+    <Amount>7.51</Amount>
+  </row>
+  <row>
+    <Date>2013-08-22 00:00:00</Date>
+    <From>Sarah T</From>
+    <To>Laura B</To>
+    <Narrative>Misc Morale</Narrative>
+    <Amount>7.05</Amount>
+  </row>
+  <row>
+    <Date>2013-08-23 00:00:00</Date>
+    <From>Todd</From>
+    <To>Sam N</To>
+    <Narrative>Beers</Narrative>
+    <Amount>0.6000000000000001</Amount>
+  </row>
+  <row>
+    <Date>2013-08-26 00:00:00</Date>
+    <From>Todd</From>
+    <To>Rob S</To>
+    <Narrative>Lunch</Narrative>
+    <Amount>3.85</Amount>
+  </row>
+  <row>
+    <Date>2013-08-27 00:00:00</Date>
+    <From>Sam N</From>
+    <To>Gergana I</To>
+    <Narrative>Fantasy Football</Narrative>
+    <Amount>5.45</Amount>
+  </row>
+  <row>
+    <Date>2013-08-28 00:00:00</Date>
+    <From>Rob S</From>
+    <To>Chris W</To>
+    <Narrative>Jenkins Fees</Narrative>
+    <Amount>11.13</Amount>
+  </row>
+  <row>
+    <Date>2013-08-31 00:00:00</Date>
+    <From>Gergana I</From>
+    <To>Laura B</To>
+    <Narrative>Pokemon Training</Narrative>
+    <Amount>5.54</Amount>
+  </row>
+  <row>
+    <Date>2013-09-03 00:00:00</Date>
+    <From>Chris W</From>
+    <To>Ben B</To>
+    <Narrative>Coffee</Narrative>
+    <Amount>9.48</Amount>
+  </row>
+  <row>
+    <Date>2013-09-05 00:00:00</Date>
+    <From>Dan W</From>
+    <To>Tim L</To>
+    <Narrative>Lunch</Narrative>
+    <Amount>10.58</Amount>
+  </row>
+  <row>
+    <Date>2013-09-07 00:00:00</Date>
+    <From>Rob S</From>
+    <To>Laura B</To>
+    <Narrative>Lunch</Narrative>
+    <Amount>3.32</Amount>
+  </row>
+  <row>
+    <Date>2013-09-10 00:00:00</Date>
+    <From>Tim L</From>
+    <To>Ben B</To>
+    <Narrative>Misc Morale</Narrative>
+    <Amount>8.68</Amount>
+  </row>
+  <row>
+    <Date>2013-09-12 00:00:00</Date>
+    <From>Tim L</From>
+    <To>Laura B</To>
+    <Narrative>Lego Assistance</Narrative>
+    <Amount>2.5300000000000002</Amount>
+  </row>
+  <row>
+    <Date>2013-09-13 00:00:00</Date>
+    <From>Stephen S</From>
+    <To>Laura B</To>
+    <Narrative>Services Rendered</Narrative>
+    <Amount>1.96</Amount>
+  </row>
+  <row>
+    <Date>2013-09-16 00:00:00</Date>
+    <From>Sam N</From>
+    <To>Rob S</To>
+    <Narrative>Beers</Narrative>
+    <Amount>2.81</Amount>
+  </row>
+  <row>
+    <Date>2013-09-19 00:00:00</Date>
+    <From>Ben B</From>
+    <To>Gergana I</To>
+    <Narrative>Beers</Narrative>
+    <Amount>5.52</Amount>
+  </row>
+  <row>
+    <Date>2013-09-22 00:00:00</Date>
+    <From>Stephen S</From>
+    <To>Dan W</To>
+    <Narrative>Sandbox Help</Narrative>
+    <Amount>9.28</Amount>
+  </row>
+  <row>
+    <Date>2013-09-23 00:00:00</Date>
+    <From>Stephen S</From>
+    <To>Dan W</To>
+    <Narrative>Coffee</Narrative>
+    <Amount>5.13</Amount>
+  </row>
+  <row>
+    <Date>2013-09-27 00:00:00</Date>
+    <From>Chris W</From>
+    <To>Sarah T</To>
+    <Narrative>Stationary Items</Narrative>
+    <Amount>7.05</Amount>
+  </row>
+  <row>
+    <Date>2013-10-01 00:00:00</Date>
+    <From>Todd</From>
+    <To>Tim L</To>
+    <Narrative>Coffee</Narrative>
+    <Amount>10.13</Amount>
+  </row>
+  <row>
+    <Date>2013-10-04 00:00:00</Date>
+    <From>Chris W</From>
+    <To>Ben B</To>
+    <Narrative>Coffee</Narrative>
+    <Amount>5.96</Amount>
+  </row>
+  <row>
+    <Date>2013-10-08 00:00:00</Date>
+    <From>Gergana I</From>
+    <To>Laura B</To>
+    <Narrative>Lunch</Narrative>
+    <Amount>5.33</Amount>
+  </row>
+  <row>
+    <Date>2013-10-11 00:00:00</Date>
+    <From>Todd</From>
+    <To>Rob S</To>
+    <Narrative>Lunch</Narrative>
+    <Amount>10.62</Amount>
+  </row>
+  <row>
+    <Date>2013-10-12 00:00:00</Date>
+    <From>Ben B</From>
+    <To>Chris W</To>
+    <Narrative>Jenkins Fees</Narrative>
+    <Amount>7.78</Amount>
+  </row>
+  <row>
+    <Date>2013-10-16 00:00:00</Date>
+    <From>Laura B</From>
+    <To>Rob S</To>
+    <Narrative>Arcade Social</Narrative>
+    <Amount>5.71</Amount>
+  </row>
+  <row>
+    <Date>2013-10-17 00:00:00</Date>
+    <From>Laura B</From>
+    <To>Jon A</To>
+    <Narrative>Arcade Social</Narrative>
+    <Amount>7.71</Amount>
+  </row>
+  <row>
+    <Date>2013-10-20 00:00:00</Date>
+    <From>Sam N</From>
+    <To>Sarah T</To>
+    <Narrative>Lunch</Narrative>
+    <Amount>10.6</Amount>
+  </row>
+  <row>
+    <Date>2013-10-23 00:00:00</Date>
+    <From>Chris W</From>
+    <To>Todd</To>
+    <Narrative>Lego Assistance</Narrative>
+    <Amount>3.42</Amount>
+  </row>
+  <row>
+    <Date>2013-10-27 00:00:00</Date>
+    <From>Sam N</From>
+    <To>Dan W</To>
+    <Narrative>Misc Morale</Narrative>
+    <Amount>6.89</Amount>
+  </row>
+  <row>
+    <Date>2013-10-29 00:00:00</Date>
+    <From>Dan W</From>
+    <To>Rob S</To>
+    <Narrative>Misc Morale</Narrative>
+    <Amount>9.99</Amount>
+  </row>
+  <row>
+    <Date>2013-11-01 00:00:00</Date>
+    <From>Sarah T</From>
+    <To>Laura B</To>
+    <Narrative>Lunch</Narrative>
+    <Amount>7.01</Amount>
+  </row>
+  <row>
+    <Date>2013-11-05 00:00:00</Date>
+    <From>Stephen S</From>
+    <To>Rob S</To>
+    <Narrative>Spline Reticulation</Narrative>
+    <Amount>8.3</Amount>
+  </row>
+  <row>
+    <Date>2013-11-07 00:00:00</Date>
+    <From>Ben B</From>
+    <To>Sarah T</To>
+    <Narrative>Lunch</Narrative>
+    <Amount>10.09</Amount>
+  </row>
+  <row>
+    <Date>2013-11-09 00:00:00</Date>
+    <From>Rob S</From>
+    <To>Tim L</To>
+    <Narrative>Stationary Items</Narrative>
+    <Amount>11.0</Amount>
+  </row>
+  <row>
+    <Date>2013-11-12 00:00:00</Date>
+    <From>Rob S</From>
+    <To>Sam N</To>
+    <Narrative>Misc Morale</Narrative>
+    <Amount>1.25</Amount>
+  </row>
+  <row>
+    <Date>2013-11-15 00:00:00</Date>
+    <From>Jon A</From>
+    <To>Tim L</To>
+    <Narrative>Sandbox Help</Narrative>
+    <Amount>9.13</Amount>
+  </row>
+  <row>
+    <Date>2013-11-18 00:00:00</Date>
+    <From>Rob S</From>
+    <To>Dan W</To>
+    <Narrative>Services Rendered</Narrative>
+    <Amount>9.4</Amount>
+  </row>
+  <row>
+    <Date>2013-11-21 00:00:00</Date>
+    <From>Stephen S</From>
+    <To>Chris W</To>
+    <Narrative>Misc Morale</Narrative>
+    <Amount>2.5300000000000002</Amount>
+  </row>
+  <row>
+    <Date>2013-11-24 00:00:00</Date>
+    <From>Tim L</From>
+    <To>Sam N</To>
+    <Narrative>Rails Consultancy</Narrative>
+    <Amount>7.59</Amount>
+  </row>
+  <row>
+    <Date>2013-11-28 00:00:00</Date>
+    <From>Ben B</From>
+    <To>Todd</To>
+    <Narrative>Golf Bets</Narrative>
+    <Amount>2.15</Amount>
+  </row>
+  <row>
+    <Date>2013-11-29 00:00:00</Date>
+    <From>Ben B</From>
+    <To>Sam N</To>
+    <Narrative>Pokemon Training</Narrative>
+    <Amount>4.01</Amount>
+  </row>
+  <row>
+    <Date>2013-12-01 00:00:00</Date>
+    <From>Sam N</From>
+    <To>Sarah T</To>
+    <Narrative>Lunch</Narrative>
+    <Amount>6.35</Amount>
+  </row>
+  <row>
+    <Date>2013-12-02 00:00:00</Date>
+    <From>Jon A</From>
+    <To>Todd</To>
+    <Narrative>Misc Morale</Narrative>
+    <Amount>10.19</Amount>
+  </row>
+  <row>
+    <Date>2013-12-05 00:00:00</Date>
+    <From>Ben B</From>
+    <To>Sam N</To>
+    <Narrative>Coffee</Narrative>
+    <Amount>9.0</Amount>
+  </row>
+  <row>
+    <Date>2013-12-09 00:00:00</Date>
+    <From>Laura B</From>
+    <To>Tim L</To>
+    <Narrative>Rails Consultancy</Narrative>
+    <Amount>9.39</Amount>
+  </row>
+  <row>
+    <Date>2013-12-12 00:00:00</Date>
+    <From>Chris W</From>
+    <To>Tim L</To>
+    <Narrative>Coffee</Narrative>
+    <Amount>11.44</Amount>
+  </row>
+  <row>
+    <Date>2013-12-13 00:00:00</Date>
+    <From>Rob S</From>
+    <To>Tim L</To>
+    <Narrative>Misc Morale</Narrative>
+    <Amount>9.19</Amount>
+  </row>
+  <row>
+    <Date>2013-12-17 00:00:00</Date>
+    <From>Sarah T</From>
+    <To>Ben B</To>
+    <Narrative>Pokemon Training</Narrative>
+    <Amount>8.72</Amount>
+  </row>
+  <row>
+    <Date>2013-12-19 00:00:00</Date>
+    <From>Todd</From>
+    <To>Ben B</To>
+    <Narrative>Pokemon Training</Narrative>
+    <Amount>8.72</Amount>
+  </row>
+  <row>
+    <Date>2013-12-22 00:00:00</Date>
+    <From>Gergana I</From>
+    <To>Sam N</To>
+    <Narrative>Lunch</Narrative>
+    <Amount>1.32</Amount>
+  </row>
+  <row>
+    <Date>2013-12-24 00:00:00</Date>
+    <From>Ben B</From>
+    <To>Rob S</To>
+    <Narrative>Snooker Night</Narrative>
+    <Amount>10.14</Amount>
+  </row>
+  <row>
+    <Date>2013-12-27 00:00:00</Date>
+    <From>Stephen S</From>
+    <To>Todd</To>
+    <Narrative>Spline Reticulation</Narrative>
+    <Amount>4.34</Amount>
+  </row>
+  <row>
+    <Date>2013-12-28 00:00:00</Date>
+    <From>Jon A</From>
+    <To>Chris W</To>
+    <Narrative>Beers</Narrative>
+    <Amount>5.99</Amount>
+  </row>
+  <row>
+    <Date>2013-12-30 00:00:00</Date>
+    <From>Rob S</From>
+    <To>Sam N</To>
+    <Narrative>Misc Morale</Narrative>
+    <Amount>2.54</Amount>
+  </row>
+</data>

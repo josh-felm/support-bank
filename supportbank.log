@@ -1,6 +1,4 @@
-INFO:root:2022-09-29 14:32:29 Execution started
-INFO:root:2022-09-29 14:32:29 filetype is xml
-INFO:root:2022-09-29 14:32:29: Read file ./data/transactions2012.xml
-INFO:root:2022-09-29 14:32:29: Displaying menu
-INFO:root:2022-09-29 14:32:32 filetype is xml
-INFO:root:2022-09-29 14:32:32: Read file ./data/transactions2012.xml
+2022-09-30 10:55:39,306 Execution started
+2022-09-30 10:55:39,307 filetype is xml
+2022-09-30 10:55:39,311 Read file .\data\transactions2012.xml
+2022-09-30 10:55:39,391 Displaying menu
